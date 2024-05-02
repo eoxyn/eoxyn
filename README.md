@@ -12,8 +12,11 @@ Additionally, I love nature and animals, 🌿🐾 and I find joy in exploring th
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="C Logo" width="55" height="55"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="Java Logo" width="55" height="55"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" width="55" height="55"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js Logo" width="55" height="55"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js Logo" width="55" height="55">
 
 <hr style="border: 0;border-bottom: 1px solid #ccc;">
-<center>  <a href="mailto:riseofkaya@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=flat-square&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/mehmet-kaya-3b7909227/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin"></a></center>
+
+<center> 
+ <a href="mailto:riseofkaya@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=flat-square&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/mehmet-kaya-3b7909227/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin"></a>
+</center>
 
 <br>
 <blockquote style="font-style: italic; text-align: center;">
