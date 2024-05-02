@@ -16,7 +16,7 @@ I am passionate about space and science, 🚀🔬 and I enjoy conducting detaile
 </blockquote>
 
 
-<div style="display: flex; justify-content: center;">
+<div style="text-align: center;">
   <a href="mailto:riseofkaya@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=flat-square&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/mehmet-kaya-3b7909227/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin"></a>
 </div>
