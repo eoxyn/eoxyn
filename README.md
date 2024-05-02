@@ -4,6 +4,5 @@
  - 👀 I’m Software Developer
 
 **My skills include**
-![image](https://github.com/eoxyn/eoxyn/assets/164552615/edacad43-f952-47c5-a9e9-c903630f6823) ![image](https://github.com/eoxyn/eoxyn/assets/164552615/ce93d17c-9ef6-4130-8e9c-54b058ef8ada)
-![image](https://github.com/eoxyn/eoxyn/assets/164552615/1bcbb2df-6053-4e68-bd70-60191a197176)
 
+![png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo](https://github.com/eoxyn/eoxyn/assets/164552615/eedd68e7-0715-43e6-8736-6331815c85d7)
