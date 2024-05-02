@@ -12,7 +12,8 @@ I am passionate about space and science, 🚀🔬 and I enjoy conducting detaile
 
 <hr style="border: 1px solid gray">
 
-                                 I didn't know initially, because no one had ever built such a system. And that's why it was one of the reasons why we were successful: Because no one had told us that such a thing was impossible.
+                         I didn't know initially, because no one had ever built such a system. And that's why 
+                               it was one of the reasons why we were successful: Because no one had told us that such a thing was impossible.
  <br>
   - Margaret Hamilton
 
