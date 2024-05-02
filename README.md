@@ -8,8 +8,8 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1024px-ISO_C%2B%2B_Logo.svg.png" alt="C++ Logo" width="55" height="55">
 
-C# Logo:
-![C# Logo](https://simpleicons.org/icons/csharp.svg)
+![C# Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/1200px-C_Sharp_logo.svg.png)
+
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="Java Logo" width="55" height="55">
 
