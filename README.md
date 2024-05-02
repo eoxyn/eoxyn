@@ -4,7 +4,7 @@
  - 💻 Software Developer
  - 🎓Computer Programming and Management Information Systems (MIS)
 
-I am passionate about space and science, 🚀🔬 and I enjoy conducting detailed research in these fields almost every day.
+I am passionate about space and science, 🚀🔬 and I enjoy conducting detailed research in these fields almost every day.<br>
 Additionally, I love nature and animals, 🌿🐾 and I find joy in exploring their wonders.
 
   **My skills include**
@@ -17,9 +17,6 @@ Additionally, I love nature and animals, 🌿🐾 and I find joy in exploring th
   <a href="mailto:riseofkaya@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=flat-square&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/mehmet-kaya-3b7909227/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin"></a>
 </div>
-
-
-
 <br>
 <blockquote style="font-style: italic; text-align: center;">
   I didn't know initially, because no one had ever built such a system. And that's why it was one of the reasons why we were successful: Because no one had told us that such a thing was impossible. <br>
