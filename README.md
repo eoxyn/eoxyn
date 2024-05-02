@@ -4,7 +4,7 @@
  - 💻 Software Developer
  - 🎓Computer Programming and Management Information Systems (MIS)
 
-  I am passionate about space and science, 🚀🔬 and I enjoy conducting detailed research in these fields almost every day
+I am passionate about space and science, 🚀🔬 and I enjoy conducting detailed research in these fields almost every day. Additionally, I love nature and animals, 🌿🐾 and I find joy in exploring their wonders.
 
   **My skills include**
 
