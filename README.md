@@ -14,6 +14,8 @@ I am passionate about space and science, 🚀🔬 and I enjoy conducting detaile
   I didn't know initially, because no one had ever built such a system. And that's why it was one of the reasons why we were successful: Because no one had told us that such a thing was impossible. <br>
   - Margaret Hamilton
 </blockquote>
+
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Margaret_Hamilton_1995.jpg/100px-Margaret_Hamilton_1995.jpg" alt="Margaret Hamilton" width="100" height="100">
 
 
