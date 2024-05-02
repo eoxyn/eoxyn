@@ -5,4 +5,4 @@
 
 **My skills include**
 
-![C# Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C# Logo" width="50" height="50">
