@@ -5,4 +5,4 @@
 
 **My skills include**
 
-![png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo](https://github.com/eoxyn/eoxyn/assets/164552615/eedd68e7-0715-43e6-8736-6331815c85d7)
+https://camo.githubusercontent.com/a5550dc7c64b40050eb57121c4d286b68cddbfeb6dc29a5712b6954b0e6d8872/68747470733a2f2f69636f6e6170652e636f6d2f77702d636f6e74656e742f66696c65732f73682f35313430342f7376672f632d2d342e737667
