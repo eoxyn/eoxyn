@@ -2,10 +2,9 @@
 
 **Hi there 👋 I’m eoxyn**
  - 💻 Software Developer
- - 🎓Computer Programming
- - 🎓Management Information Systems (MIS)
+ - 🎓Computer Programming and Management Information Systems (MIS)
 
-- I am passionate about space and science, 🚀🔬 and I enjoy conducting detailed research in these fields almost every day
+  I am passionate about space and science, 🚀🔬 and I enjoy conducting detailed research in these fields almost every day
 
   **My skills include**
 
