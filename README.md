@@ -6,4 +6,10 @@
 **My skills include**
 
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cpp/cpp-plain.svg" alt="C++ Logo" width="60" height="60">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="C Logo" width="55" height="55">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cpp/cpp-plain.svg" alt="C++ Logo" width="55" height="55">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" alt="C# Logo" width="55" height="55">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="Java Logo" width="55" height="55">
