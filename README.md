@@ -1,2 +1,2 @@
-Hi there 👋 Hi, I’m eoxyn
+Hi there 👋 I’m eoxyn
  - 👀 I’m Software Developer
