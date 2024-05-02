@@ -14,7 +14,8 @@ I am passionate about space and science, 🚀🔬 and I enjoy conducting detaile
   I didn't know initially, because no one had ever built such a system. And that's why it was one of the reasons why we were successful: Because no one had told us that such a thing was impossible. <br>
   - Margaret Hamilton
 </blockquote>
-<img src="https://en.wikipedia.org/wiki/Margaret_Hamilton_%28software_engineer%29#/media/File:Margaret_Hamilton_1995.jpg" alt="Margaret Hamilton" width="100" height="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Margaret_Hamilton_1995.jpg/100px-Margaret_Hamilton_1995.jpg" alt="Margaret Hamilton" width="100" height="100">
+
 
 <a href="mailto:riseofkaya@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=flat-square&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/mehmet-kaya-3b7909227/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin"></a>
