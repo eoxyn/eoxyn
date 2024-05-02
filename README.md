@@ -10,13 +10,6 @@ I am passionate about space and science, 🚀🔬 and I enjoy conducting detaile
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="C Logo" width="55" height="55"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="Java Logo" width="55" height="55"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" width="55" height="55"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js Logo" width="55" height="55"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js Logo" width="55" height="55">
 
-<hr style="border: 1px solid gray">
-
-                     I didn't know initially, because no one had ever built such a system. And that's why 
-                       it was one of the reasons why we were successful: Because no one had told us that such a thing was impossible.
- <br>
-  - Margaret Hamilton
-
 <blockquote style="font-style: italic; text-align: center;">
   "I didn't know initially, because no one had ever built such a system. And that's why it was one of the reasons why we were successful: Because no one had told us that such a thing was impossible." <br>
   - Margaret Hamilton
