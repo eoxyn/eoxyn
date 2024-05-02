@@ -14,7 +14,6 @@ Additionally, I love nature and animals, 🌿🐾 and I find joy in exploring th
 
 <hr style="border: 0;border-bottom: 1px solid #ccc;">
 
-<br>
 <blockquote style="font-style: italic; text-align: center;">
   I didn't know initially, because no one had ever built such a system. And that's why it was one of the reasons why we were successful: Because no one had told us that such a thing was impossible. <br>
   - Margaret Hamilton
