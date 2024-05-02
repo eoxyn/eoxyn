@@ -5,8 +5,5 @@
 
 **My skills include**
 
-C Logo:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="C Logo" width="55" height="55">
 
-C++ Logo:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cpp/cpp-plain.svg" alt="C++ Logo" width="55" height="55">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cpp/cpp-plain.svg" alt="C++ Logo" width="60" height="60">
