@@ -5,6 +5,7 @@
 
 **My skills include**
 
+![C Logo](https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg)
 
 
 C Logo:
