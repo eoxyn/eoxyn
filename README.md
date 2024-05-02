@@ -17,6 +17,10 @@ I am passionate about space and science, 🚀🔬 and I enjoy conducting detaile
  <br>
   - Margaret Hamilton
 
+<blockquote style="font-style: italic; text-align: center;">
+  "I didn't know initially, because no one had ever built such a system. And that's why it was one of the reasons why we were successful: Because no one had told us that such a thing was impossible." <br>
+  - Margaret Hamilton
+</blockquote>
 
 <a href="mailto:riseofkaya@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=flat-square&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/mehmet-kaya-3b7909227/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin"></a>
