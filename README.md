@@ -16,7 +16,7 @@ I am passionate about space and science, 🚀🔬 and I enjoy conducting detaile
 </blockquote>
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Margaret_Hamilton_1995.jpg" alt="Margaret Hamilton">
+<img src="https://now.org/wp-content/uploads/2016/06/Margaret_Hamilton.gif" alt="Margaret Hamilton" width="100" height="100">
 
 
 <a href="mailto:riseofkaya@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=flat-square&logo=gmail"></a>
