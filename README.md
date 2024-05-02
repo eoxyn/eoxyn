@@ -13,10 +13,10 @@ Additionally, I love nature and animals, 🌿🐾 and I find joy in exploring th
 
 <hr style="border: 0;border-bottom: 1px solid #ccc;">
 
-<blockquote style="font-style: italic; text-align: center;">
+<p style="font-style: italic; text-align: center;">
   I didn't know initially, because no one had ever built such a system. And that's why it was one of the reasons why we were successful: Because no one had told us that such a thing was impossible. <br>
   - Margaret Hamilton
-</blockquote>
+</p>
 
 <br>
  <a href="mailto:riseofkaya@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=flat-square&logo=gmail"></a>
