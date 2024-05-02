@@ -2,7 +2,7 @@
 
 **Hi there 👋 I’m eoxyn**
  - 💻 Software Developer
- - 🎓I hold degrees in Computer Programming and Management Information Systems (MIS)
+ - 🎓Computer Programming and Management Information Systems (MIS)
    
 **My skills include**
 
