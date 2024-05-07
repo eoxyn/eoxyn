@@ -1,6 +1,6 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=eoxyn.visitor-badge)
 
-**Hi there 👋 I’m Mehmet**
+**Hi there 👋 I’m Eoxyn**
  - 💻 Software Developer
  - 🎓Computer Programming and Management Information Systems (MIS)
 
