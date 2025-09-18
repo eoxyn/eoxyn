@@ -7,9 +7,7 @@
 I am passionate about space and science, 🚀🔬 and I enjoy conducting detailed research in these fields almost every day.<br>
 Additionally, I love nature and animals, 🌿🐾 and I find joy in exploring their wonders.<br>
 
- **My skills include**
-  
-
+<img src="https://imgur.com/a/BqDN3Bd">
 
 <hr style="border: 0;border-bottom: 1px solid #ccc;">
 
