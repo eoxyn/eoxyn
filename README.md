@@ -7,7 +7,7 @@
 I am passionate about space and science, 🚀🔬 and I enjoy conducting detailed research in these fields almost every day.<br>
 Additionally, I love nature and animals, 🌿🐾 and I find joy in exploring their wonders.<br>
 
-<img src="https://imgur.com/a/BqDN3Bd">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png">
 
 <hr style="border: 0;border-bottom: 1px solid #ccc;">
 
