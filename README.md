@@ -20,3 +20,4 @@ Additionally, I love nature and animals, 🌿🐾 and I find joy in exploring th
 
 <br>
  <a href="mailto:riseofkaya@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=flat-square&logo=gmail"></a>
+uses: Platane/snk/svg-only@v3
